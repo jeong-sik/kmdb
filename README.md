@@ -4,6 +4,15 @@
 
 https://www.kmdb.or.kr/db/kor/detail/movie/K/22692/own/image
 
+# Disclaimer!
+
+## 저작권 정책 확인
+
+https://www.koreafilm.or.kr/pages/PC_00000096
+
+- 요 부분을 특히 주의
+  `영화 스틸/포스터는 기관 외 저작물이기 때문에 사용 불가`
+
 ## Sample
 
 ```json
